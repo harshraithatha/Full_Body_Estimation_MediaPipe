@@ -1,4 +1,4 @@
-# Full Body Estimation with MediaPipe
+# MediaPipe for Full-Body Estimation
 
 Facemesh tracking
 
